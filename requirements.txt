@@ -5,5 +5,8 @@ scikit-learn
 # ML Engineers
 uvicorn
 fastapi
+joblib
 
 # MLOps
+dvc
+dvc_s3
